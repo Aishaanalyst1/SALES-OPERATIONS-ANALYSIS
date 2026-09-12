@@ -1,7 +1,7 @@
 # [Project Title: SALES OPERATION ANALYSIS]
 
-<!-- Add a project banner image or relevant dashboard screenshot here to capture attention -->
-![Project Banner](path/to/banner_or_dashboard.png)
+<!--  dashboard screenshot  -->
+![Project Banner](https://github.com/Aishaanalyst1/SALES-OPERATIONS-ANALYSIS/blob/main/Screenshot%202026-09-12%20202905.png)
 
 ## 📊 Project Overview
 ANALYSED 2022 RETAIL SALES DATA USING PIVOT TABLES AND CHARTS TO UNCOVER REVENUE TRENDS, CUSTOMER BEHAVIOUR, AND CHANNEL PERFORMANCE ACROSS MULTIPLE INDIAN STATES AND E-COMMERCE PLATFORMS. 
